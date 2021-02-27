@@ -3,7 +3,7 @@ Website for Anime
 
 ## TODO
 
-[*] - Header\
+- [*] - Header\
 [ ] - Drawer\
 [ ] - Login & Signup\
 [ ] - Cards\
