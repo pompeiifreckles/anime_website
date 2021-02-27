@@ -3,9 +3,9 @@ Website for Anime
 
 ## TODO
 
-- [*] - Header\
+- [x] - Header\
 - [ ] - Drawer\
-[ ] - Login & Signup\
-[ ] - Cards\
-[ ] - Search\
-[ ] - Trending
+- [ ] - Login & Signup\
+- [ ] - Cards\
+- [ ] - Search\
+- [ ] - Trending
