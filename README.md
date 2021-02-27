@@ -4,8 +4,8 @@ Website for Anime
 ## TODO
 
 [*] - Header\
-[] - Drawer\
-[] - Login & Signup\
-[] - Cards\
-[] - Search\
-[] - Trending
+[ ] - Drawer\
+[ ] - Login & Signup\
+[ ] - Cards\
+[ ] - Search\
+[ ] - Trending
