@@ -3,6 +3,6 @@ Website for Anime
 
 ## TODO
 
-[x] - Header
-[] - Drawer
-[] - Login
+[x] - Header\
+[] - Drawer\
+[] - Login\
