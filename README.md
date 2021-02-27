@@ -6,6 +6,6 @@ Website for Anime
 - [x] - Header
 - [ ] - Drawer
 - [ ] - Login & Signup
-- [ ] - Cards
+- [ ] - Home
 - [ ] - Search
 - [ ] - Trending
