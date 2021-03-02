@@ -1,9 +1,6 @@
 import React from 'react'
 import { Button, Container } from 'rsuite';
 import { Row, Col } from 'rsuite';
-// import { Header, Content, Footer, Sidebar } from 'rsuite';
-// import { Grid, Row, Col } from 'rsuite';
-// import { Drawer, ButtonToolbar, IconButton, Icon, Button, Paragraph } from 'rsuite';
 
 
 import Hamburger from './Nav/Hamburger'
@@ -18,10 +15,10 @@ function Layout() {
                 <Container>
 
                     <Row style={styles.row}>
-                        <Col lg={1} md={2} sm={2} style={{...styles.col, }}>
+                        <Col lg={1} md={2} sm={2} xs={2} style={{...styles.col, }}>
                             <Hamburger />    
                         </Col>
-                        <Col lg={4} md={4} sm={4} style={{ ...styles.col, }}>
+                        <Col lg={4} md={4} sm={4} xs={2} style={{ ...styles.col, }}>
                             <img src={logo} alt="name+logo" style={{height: 'auto', maxWidth: '200px', minWidth: '150px', width: '100%'}} /> 
                         </Col>
                         <Col lg={3} md={2} sm={3} style={styles.col}></Col>
@@ -46,10 +43,10 @@ function Layout() {
 
 const styles = {
     divStyle: {
-        height: '100vh', width: '100vw', position: 'absolute', backgroundColor: '#303030', margin: 0, paddingTop: 0
+        height: 'auto', width: 'auto', position: 'relative', backgroundColor: '#303030', margin: 0, paddingTop: 0,
     },
     row: {
-        backgroundColor: 'rgba(48, 48, 48, 1)',  margin: 0,  padding: 0, display: 'flex', alignItems: 'center', marginTop: '0.3%'
+        backgroundColor: '#303030',  margin: 0,  padding: 0, display: 'flex', alignItems: 'center', marginTop: '0.3%',
     },
     col: {
         color: 'white',  height: '100%',  fontSize: '1rem', 
