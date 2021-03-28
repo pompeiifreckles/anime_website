@@ -1,5 +1,5 @@
-# anime_website
-Website for Anime
+# AnimeFX
+Streaming service for anime using HLS and amazon content delivery network.
 
 ![animefx](https://user-images.githubusercontent.com/31028745/112741251-b7bc2700-8fa1-11eb-934f-8f23d8436bd7.png)
 
